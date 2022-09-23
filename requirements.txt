@@ -4,3 +4,4 @@ seaborn
 statsmodels
 plotly==5.8.2
 jupyter
+scikit-learn
